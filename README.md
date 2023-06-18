@@ -78,8 +78,13 @@ Bu sayfa, kullanıcıların notları satın alabilecekleri bir sayfadır. Bu say
 Öncelikle uygulamamızla ilgili bir afiş tasarımı yaptık
 ![alt text](https://github.com/HsarkutH/F-19/blob/main/%C3%96%C4%9Frenciler%20%C4%B0%C3%A7in%20tasarland%C4%B1.%20(1).png)
 
+
+
 Uygulamayı yapmadan önce toplantılar yaparak ve aramızda konuşarak fikir alışverişinde bulunduk
 ![alt text](https://github.com/HsarkutH/F-19/blob/main/WhatsApp%20Image%202023-06-18%20at%2023.40.53.jpeg)
+
+
+
 
 uygulama tasarımımız için UX research yaptık ve hedef kitemizi daha iyi oluşturduk.
 ![alt text](https://github.com/HsarkutH/F-19/blob/main/persona%20design.png)
