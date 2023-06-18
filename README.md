@@ -19,60 +19,57 @@ Takım Elemanları
 
 ÜRÜN AÇIKLAMASI
 
+TAKIM FLUTTER # F-19
 
-NoteMarket, öğrencilerin ders notlarını satarak para kazanmasına ve diğer öğrencilerin de bu notları satın alarak başarılı olmasına yardımcı olan bir platformdur. Bu uygulama, öğrencilerin kendi notlarını yüklemelerine ve diğer öğrencilerin notlarını satın alarak derslerinde daha başarılı olmalarına yardımcı olacak bir kaynak sağlamaktadır.
+Garaj, öğrencilerin kitaplarını, bölümlerinde kullandıkları çeşitli araç gereçleri ve notlarını satarak para kazanmasına ve diğer öğrencilerin de bu eşyaları ve notları satın alarak başarılı olmasına yardımcı olan bir platformdur. Bu uygulama, öğrencilerin kendi notlarını yüklemelerine ve diğer öğrencilerin notlarını satın alarak derslerinde daha başarılı olmalarına yardımcı olacağo bir kaynak sağlamaktadır. Uygulama bunu yaparken aynı zamanda da öğrencilerin araç gereçlerinin satın alınmasını da sağlayarak bölümlerinde gerekli olan eşyaları daha uygun bir fiyata sahip olmalarına da yardımcı olmaktadır.
 
-NoteMarket, öğrencilerin notlarını yükleyerek satışa sunabilecekleri kolay ve kullanımı basit bir platformdur. Öğrenciler, notlarını kategorize edebilir, açıklama ekleyebilir ve notlarını diğer öğrencilerin dikkatini çekecek şekilde özelleştirebilirler. Diğer öğrenciler, bu notları satın alarak derslerinde daha başarılı olabilirler.
+Garaj, öğrencilerin araç-gereçlerini ve notlarını yükleyerek satışa sunabilecekleri kolay ve kullanımı basit bir platformdur. Öğrenciler, eşyalarını kategorize edebilir, açıklama ekleyebilir ve sattığı eşyaları diğer öğrencilerin dikkatini çekecek şekilde özelleştirebilirler. Diğer öğrenciler, bu eşyaları edinip notları satın alarak derslerinde daha başarılı olabilirler.
 
-NoteMarket'in bir diğer harika özelliği de, öğrencilere notlarını yükledikleri için para kazanma fırsatı sağlamasıdır. Öğrenciler, notlarını satışa sunarak para kazanabilirler. Bu da öğrencilerin maddi açıdan rahatlamalarını sağlayabilir.
+Garaj uygulamasının bir diğer harika özelliği de, öğrencilere notlarını yükledikleri için para kazanma fırsatı sağlamasıdır. Öğrenciler, notlarını satışa sunarak para kazanabilirler. Bu da öğrencilerin maddi açıdan rahatlamalarını sağlayabilir.
 
-Sonuç olarak, NoteMarket öğrencilerin ders notlarını satıp alabildiği harika bir uygulamadır. Öğrencilerin derslerinde daha başarılı olmalarına yardımcı olurken, aynı zamanda para kazanmalarını da sağlar. NoteMarket'i denemenizi tavsiye ederim!
- 
-Uygulama Birincil Fonksiyonu:"NoteMarket", öğrencilerin ders notlarını satıp alabildiği bir platformdur. Bu uygulama, öğrencilerin derslerinde başarılı olmalarına yardımcı olmak amacıyla tasarlanmıştır. Öğrenciler, ders notlarını yükleyerek satışa sunabilirler ve diğer öğrenciler de bu notları satın alarak derslerinde daha başarılı olabilirler. Bu sayede, öğrencilerin derslerindeki başarıları artar ve sınavlara daha kolay hazırlanırlar.
+Tabii, öncelikle uygulamanın birincil fonksiyonlarını anlatacağım:
 
-Uygulama İkincil Fonksiyonu:Birincisi, "NoteMarket" öğrencilerin ders notlarını yükleyerek para kazanmalarına olanak tanır. Öğrenciler, notlarını satışa sunarak para kazanabilirler. Bu özellik sayesinde, öğrencilerin maddi açıdan rahatlamaları sağlanabilir.
+"Garaj, öğrencilerin öğrencilerin kitaplarını ve ders gereçlerini satıp alabildiği bir platformdur. Bu uygulama, öğrencilerin derslerinde kullanmaları gereken eşyaları daha uyguna alabilmelerine yardımcı olmak amacıyla tasarlanmıştır. Öğrenciler, kullanmadıkları ders gereçlerini yükleyerek satışa sunabilirler ve diğer öğrenciler de bu ders araç gereçlerini satın alarak derslerinde daha başarılı olabilirler. Aynı zamanda da ders notu satışı yaparak derslerinde daha başarılı olabilirler.
 
-İkinci olarak, "NoteMarket" öğrencilerin notlarını kategorize edebilmelerine olanak tanır. Öğrenciler, ders notlarını konularına göre sınıflandırarak diğer öğrencilerin notlarına daha kolay erişmelerine yardımcı olabilirler. Bu sayede, öğrenciler daha fazla not görüntüleyebilir ve derslerinde daha başarılı olabilirler.
 
-Üçüncü olarak, "NoteMarket" öğrencilerin notlarını özelleştirmelerine olanak tanır. Öğrenciler, notlarını açıklamalar ve diğer özelliklerle özelleştirerek diğer öğrencilerin dikkatini çekebilirler. Bu sayede, notlar daha çekici hale gelir ve daha fazla satış yapılabilir.
+Uygulamanın ikincil fonksiyonları ise şunlardır:
+Birincisi, "Garaj" öğrencilerin kullanmadıkları eşyalarını yükleyerek para kazanmalarına olanak tanır. Öğrenciler, eşyalarını ve notlarını satışa sunarak para kazanabilirler. Bu özellik sayesinde, öğrencilerin maddi açıdan rahatlamaları sağlanabilir.
 
-Son olarak, "NoteMarket" öğrencilerin notlarını güvenli bir şekilde satmalarına olanak tanır. Uygulama, ödeme işlemlerini güvence altına alır ve satıcıların notlarını izinsiz kullanımlardan korur.
+İkinci olarak, "Garaj" öğrencilerin notlarını kategorize edebilmelerine olanak tanır. Öğrenciler, ders notlarını konularına göre sınıflandırarak diğer öğrencilerin notlarına daha kolay erişmelerine yardımcı olabilirler. Bu sayede, öğrenciler daha fazla not görüntüleyebilir ve derslerinde daha başarılı olabilirler.
 
-Tüm bu fonksiyonlar, "NoteMarket" uygulamasının öğrencilere sağladığı birçok faydayı göstermektedir. Bu uygulama, öğrencilerin derslerinde daha başarılı olmalarına yardımcı olurken, aynı zamanda para kazanmalarını da sağlar.
+Üçüncü olarak, "Garaj" öğrencilerin sattıkları ve eşyaları özelleştirmelerine olanak tanır. Öğrenciler, eşyalarını açıklamalar ve diğer özelliklerle özelleştirerek diğer öğrencilerin dikkatini çekebilirler. Bu sayede, sattıkları eşyalar daha çekici hale gelir ve daha fazla satış yapılabilir.
 
-ÜRÜN ÖZELLİKLERİ
+Son olarak, "Garaj" öğrencilerin notlarını ve eşyalarını güvenli bir şekilde satmalarına olanak tanır. Uygulama, ödeme işlemlerini güvence altına alır ve satıcıların notlarını izinsiz kullanımlardan korur.
 
-1. Ders Notlarının Satın Alınması:
-"NoteMarket", öğrencilerin ders notlarını satın alabilecekleri bir platformdur. Öğrenciler, diğer öğrencilerin notlarını satın alarak derslerinde daha başarılı olabilirler. Bu sayede, öğrencilerin derslerindeki başarıları artar ve sınavlara daha kolay hazırlanırlar.
+Tüm bu fonksiyonlar, "Garaj" uygulamasının öğrencilere sağladığı birçok faydayı göstermektedir. Bu uygulama, öğrencilerin derslerinde daha başarılı olmalarına yardımcı olurken, aynı zamanda para kazanmalarını da sağlar.
 
-2. Ders Notlarının Satışa Sunulması:
-"NoteMarket", öğrencilerin kendi ders notlarını satışa sunabilecekleri bir platformdur. Öğrenciler, notlarını yükleyerek satışa sunabilir ve satıştan para kazanabilirler. Bu özellik sayesinde, öğrencilerin maddi açıdan rahatlamaları sağlanabilir.
 
-3. Notların Kategorize Edilmesi:
-"NoteMarket", öğrencilerin notlarını kategorize edebilmelerine olanak tanır. Öğrenciler, ders notlarını konularına göre sınıflandırarak diğer öğrencilerin notlarına daha kolay erişmelerine yardımcı olabilirler. Bu sayede, öğrenciler daha fazla not görüntüleyebilir ve derslerinde daha başarılı olabilirler.
 
-4. Notların Özelleştirilmesi:
-"NoteMarket", öğrencilerin notlarını açıklamalar ve diğer özelliklerle özelleştirerek diğer öğrencilerin dikkatini çekebilecekleri bir platformdur. Öğrenciler, notlarını daha çekici hale getirerek daha fazla satış yapabilirler. Bu sayede, öğrencilerin notları daha popüler hale gelir ve satışları artar.
+1. Kullanıcı Girişi ve Kayıt Olma Sayfası:
+Uygulamanın ilk sayfası, kullanıcıların giriş yapabileceği veya kayıt olabileceği bir sayfa olmalıdır. Bu sayfa, Firebase Authentication ile oluşturulabilir.
 
-5. Güvenli Ödeme İşlemleri:
-"NoteMarket", öğrencilerin notlarını güvenli bir şekilde satmalarına olanak tanır. Uygulama, ödeme işlemlerini güvence altına alır ve satıcıların notlarını izinsiz kullanımlardan korur. Bu sayede, öğrencilerin notlarını rahatlıkla satabilecekleri bir platform sunulur.
+2. Ana Sayfa:
+Ana sayfa, kullanıcıların notlarına erişebilecekleri bir sayfadır. Bu sayfada, kullanıcılar notlarını arayabilir, filtreleyebilir ve satın alabilirler. Bu sayfa, bir ListView widget'ı kullanılarak oluşturulabilir.
 
-6. Kullanıcı Dostu Arayüz:
-"NoteMarket", kullanıcı dostu bir arayüz sunar. Öğrenciler, kolaylıkla notlarını yükleyebilir, satışa sunabilir ve diğer öğrencilerin notlarını satın alabilirler. Ayrıca, uygulamanın arayüzü basit ve anlaşılır olduğu için öğrencilerin kullanması da oldukça kolaydır.
+3. Eşya Satışı Sayfası:
+Bu sayfa, kullanıcılara satmak istediği eşyalarını ve notlarını yükleyebilecekleri bir sayfadır. Bu sayfada, kullanıcılar notlarına açıklama ve fiyat ekleyebilirler. Bu sayfa, bir Form widget'ı kullanılarak oluşturulabilir.
 
-7. Her Yerde Erişilebilir Olması:
-"NoteMarket", her yerden erişilebilir olması sayesinde öğrencilerin notlarına hızlı ve kolay bir şekilde erişmelerine olanak tanır. Öğrenciler, mobil cihazları üzerinden uygulamaya erişebilirler ve notlarını yükleyebilir, satışa sunabilir veya diğer öğrencilerin notlarını satın alabilirler.
+4. Detay Sayfası:
+Bu sayfa, kullanıcıların eşyalarının görüntüleyebilecekleri bir sayfadır. Bu sayfada, kullanıcılar eşyaların ve notların açıklamasını, fiyatını ve satıcı bilgilerini görüntüleyebilirler. Bu sayfa, bir Card widget'ı kullanılarak oluşturulabilir.
 
-Tüm bu özellikler, "NoteMarket" uygulamasının öğrenciler için ne kadar faydalı bir kaynak sağladığını göstermektedir. Bu uygulama, öğrencilerin derslerinde daha başarılı olmalarına yardımcı olurken, aynı zamanda para kazanmalarını da sağlar. Bu nedenle, "NoteMarket"i denemenizi tavsiye ederim!
+5. Ödeme Sayfası:
+Bu sayfa, kullanıcıların notları satın alabilecekleri bir sayfadır. Bu sayfada, kullanıcılar ödeme bilgilerini girerler ve notu veyahut eşyaları satın alırlar. Bu sayfa, Firebase Cloud Firestore ile oluşturulabilir.
+
+
 
 HEDEF KİTLE
 
 "NoteMarket" uygulamasının hedef kitlesi öğrencilerdir. Özellikle üniversite öğrencileri, yüksek lisans öğrencileri ve lisansüstü öğrencileri için uygun bir platformdur. Aynı zamanda, lise öğrencileri de uygulamayı kullanabilirler.
 
-Bu uygulama, özellikle derslerinde zorlanan öğrenciler için faydalıdır. Notlarını paylaşarak diğer öğrencilerin notlarına erişim sağlayabilirler. Ayrıca, öğrencilerin notlarını satışa sunarak para kazanmalarına da olanak tanır.
+Bu uygulama, özellikle derslerinde zorlanan öğrenciler için faydalıdır. Notlarını paylaşarak diğer öğrencilerin notlarına erişim sağlayabilirler. Ayrıca, öğrencilerin notlarını ve eşyalarını satışa sunarak para kazanmalarına da olanak tanır.
 
 Uygulama ayrıca, öğrencilerin belirli konularda daha fazla bilgi edinmelerine yardımcı olur. Özellikle, öğrencilerin özellikle zorlandığı derslerdeki notlarına erişim sağlamalarına olanak tanır.
 
-Sonuç olarak, "NoteMarket" uygulaması, öğrencilerin derslerinde başarılı olmalarına yardımcı olacak bir platformdur. Bu nedenle, öğrencilerin yanı sıra öğretmenlerin de bu uygulamadan faydalanabileceğini söyleyebiliriz.
+Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmalarına yardımcı olacak bir platformdur. Bu nedenle, öğrencilerin yanı sıra öğretmenlerin de bu uygulamadan faydalanabileceğini söyleyebiliriz.
 
 
