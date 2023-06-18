@@ -8,8 +8,8 @@ Takım Elemanları
 •Hüseyin Sarkut-Product Owner
 •Ece Yaren Tanış-Developer
 Ürün İsmi
---Notmarket--
-Ürün Açıklaması
+--Notmarket--           
+ÜRÜN AÇIKLAMASI
 NoteMarket, öğrencilerin ders notlarını satarak para kazanmasına ve diğer öğrencilerin de bu notları satın alarak başarılı olmasına yardımcı olan bir platformdur. Bu uygulama, öğrencilerin kendi notlarını yüklemelerine ve diğer öğrencilerin notlarını satın alarak derslerinde daha başarılı olmalarına yardımcı olacak bir kaynak sağlamaktadır.
 
 NoteMarket, öğrencilerin notlarını yükleyerek satışa sunabilecekleri kolay ve kullanımı basit bir platformdur. Öğrenciler, notlarını kategorize edebilir, açıklama ekleyebilir ve notlarını diğer öğrencilerin dikkatini çekecek şekilde özelleştirebilirler. Diğer öğrenciler, bu notları satın alarak derslerinde daha başarılı olabilirler.
