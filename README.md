@@ -72,3 +72,5 @@ Uygulama ayrıca, öğrencilerin belirli konularda daha fazla bilgi edinmelerine
 Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmalarına yardımcı olacak bir platformdur. Bu nedenle, öğrencilerin yanı sıra öğretmenlerin de bu uygulamadan faydalanabileceğini söyleyebiliriz.
 
 
+![alt text](https://github.com/HsarkutH/F-19/blob/main/%C3%96%C4%9Frenciler%20%C4%B0%C3%A7in%20tasarland%C4%B1.%20(1).png)
+
