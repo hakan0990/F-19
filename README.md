@@ -1,7 +1,6 @@
 
-##[TAKIM İSMİ]                       
+## [FLUTTER 19]                       
 
-Flutter 19
 
 Ürün İle İlgili Bilgiler
 
