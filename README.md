@@ -14,12 +14,11 @@ Takım Elemanları
 •Hüseyin Sarkut-Product Owner
 •Ece Yaren Tanış-Developer
 Ürün İsmi
---Notmarket--           
+--Garaj--           
 
 
 ÜRÜN AÇIKLAMASI
 
-TAKIM FLUTTER # F-19
 
 Garaj, öğrencilerin kitaplarını, bölümlerinde kullandıkları çeşitli araç gereçleri ve notlarını satarak para kazanmasına ve diğer öğrencilerin de bu eşyaları ve notları satın alarak başarılı olmasına yardımcı olan bir platformdur. Bu uygulama, öğrencilerin kendi notlarını yüklemelerine ve diğer öğrencilerin notlarını satın alarak derslerinde daha başarılı olmalarına yardımcı olacağo bir kaynak sağlamaktadır. Uygulama bunu yaparken aynı zamanda da öğrencilerin araç gereçlerinin satın alınmasını da sağlayarak bölümlerinde gerekli olan eşyaları daha uygun bir fiyata sahip olmalarına da yardımcı olmaktadır.
 
@@ -64,7 +63,7 @@ Bu sayfa, kullanıcıların notları satın alabilecekleri bir sayfadır. Bu say
 
 HEDEF KİTLE
 
-"NoteMarket" uygulamasının hedef kitlesi öğrencilerdir. Özellikle üniversite öğrencileri, yüksek lisans öğrencileri ve lisansüstü öğrencileri için uygun bir platformdur. Aynı zamanda, lise öğrencileri de uygulamayı kullanabilirler.
+"Garaj" uygulamasının hedef kitlesi öğrencilerdir. Özellikle üniversite öğrencileri, yüksek lisans öğrencileri ve lisansüstü öğrencileri için uygun bir platformdur. Aynı zamanda, lise öğrencileri de uygulamayı kullanabilirler.
 
 Bu uygulama, özellikle derslerinde zorlanan öğrenciler için faydalıdır. Notlarını paylaşarak diğer öğrencilerin notlarına erişim sağlayabilirler. Ayrıca, öğrencilerin notlarını ve eşyalarını satışa sunarak para kazanmalarına da olanak tanır.
 
