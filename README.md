@@ -41,9 +41,15 @@ Son olarak, "Garaj" öğrencilerin notlarını ve eşyalarını güvenli bir şe
 
 Tüm bu fonksiyonlar, "Garaj" uygulamasının öğrencilere sağladığı birçok faydayı göstermektedir. Bu uygulama, öğrencilerin derslerinde daha başarılı olmalarına yardımcı olurken, aynı zamanda para kazanmalarını da sağlar.
 
+## [HEDEF KİTLE]
 
+"Garaj" uygulamasının hedef kitlesi öğrencilerdir. Özellikle üniversite öğrencileri, yüksek lisans öğrencileri ve lisansüstü öğrencileri için uygun bir platformdur. Aynı zamanda, lise öğrencileri de uygulamayı kullanabilirler.
 
+Bu uygulama, özellikle derslerinde zorlanan öğrenciler için faydalıdır. Notlarını paylaşarak diğer öğrencilerin notlarına erişim sağlayabilirler. Ayrıca, öğrencilerin notlarını ve eşyalarını satışa sunarak para kazanmalarına da olanak tanır.
 
+Uygulama ayrıca, öğrencilerin belirli konularda daha fazla bilgi edinmelerine yardımcı olur. Özellikle, öğrencilerin özellikle zorlandığı derslerdeki notlarına erişim sağlamalarına olanak tanır.
+
+Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmalarına yardımcı olacak bir platformdur. Bu nedenle, öğrencilerin yanı sıra öğretmenlerin de bu uygulamadan faydalanabileceğini söyleyebiliriz.
 
 
 
@@ -67,15 +73,6 @@ Bu sayfa, kullanıcıların notları satın alabilecekleri bir sayfadır. Bu say
 
 
 
-## [HEDEF KİTLE]
-
-"Garaj" uygulamasının hedef kitlesi öğrencilerdir. Özellikle üniversite öğrencileri, yüksek lisans öğrencileri ve lisansüstü öğrencileri için uygun bir platformdur. Aynı zamanda, lise öğrencileri de uygulamayı kullanabilirler.
-
-Bu uygulama, özellikle derslerinde zorlanan öğrenciler için faydalıdır. Notlarını paylaşarak diğer öğrencilerin notlarına erişim sağlayabilirler. Ayrıca, öğrencilerin notlarını ve eşyalarını satışa sunarak para kazanmalarına da olanak tanır.
-
-Uygulama ayrıca, öğrencilerin belirli konularda daha fazla bilgi edinmelerine yardımcı olur. Özellikle, öğrencilerin özellikle zorlandığı derslerdeki notlarına erişim sağlamalarına olanak tanır.
-
-Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmalarına yardımcı olacak bir platformdur. Bu nedenle, öğrencilerin yanı sıra öğretmenlerin de bu uygulamadan faydalanabileceğini söyleyebiliriz.
 
 
 Öncelikle uygulamamızla ilgili bir afiş tasarımı yaptık
