@@ -44,6 +44,13 @@ Tüm bu fonksiyonlar, "Garaj" uygulamasının öğrencilere sağladığı birço
 
 
 
+
+
+
+
+## [SPRINT 1]
+
+
 1. Kullanıcı Girişi ve Kayıt Olma Sayfası:
 Uygulamanın ilk sayfası, kullanıcıların giriş yapabileceği veya kayıt olabileceği bir sayfa olmalıdır. Bu sayfa, Firebase Authentication ile oluşturulabilir.
 
@@ -71,10 +78,6 @@ Uygulama ayrıca, öğrencilerin belirli konularda daha fazla bilgi edinmelerine
 
 Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmalarına yardımcı olacak bir platformdur. Bu nedenle, öğrencilerin yanı sıra öğretmenlerin de bu uygulamadan faydalanabileceğini söyleyebiliriz.
 
-
-
-
-## [SPRINT 1]
 
 Öncelikle uygulamamızla ilgili bir afiş tasarımı yaptık
 ![alt text](https://github.com/HsarkutH/F-19/blob/main/%C3%96%C4%9Frenciler%20%C4%B0%C3%A7in%20tasarland%C4%B1.%20(1).png)
