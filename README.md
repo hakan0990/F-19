@@ -1,11 +1,11 @@
 
-TAKIM İSMİ                       
+##[TAKIM İSMİ]                       
 
 Flutter 19
 
 Ürün İle İlgili Bilgiler
 
-Takım Elemanları
+##[Takım Elemanları]
 
 
 •Nurgül Demir- Scrum Master
@@ -17,7 +17,7 @@ Takım Elemanları
 --Garaj--           
 
 
-ÜRÜN AÇIKLAMASI
+##[ÜRÜN AÇIKLAMASI]
 
 
 Garaj, öğrencilerin kitaplarını, bölümlerinde kullandıkları çeşitli araç gereçleri ve notlarını satarak para kazanmasına ve diğer öğrencilerin de bu eşyaları ve notları satın alarak başarılı olmasına yardımcı olan bir platformdur. Bu uygulama, öğrencilerin kendi notlarını yüklemelerine ve diğer öğrencilerin notlarını satın alarak derslerinde daha başarılı olmalarına yardımcı olacağo bir kaynak sağlamaktadır. Uygulama bunu yaparken aynı zamanda da öğrencilerin araç gereçlerinin satın alınmasını da sağlayarak bölümlerinde gerekli olan eşyaları daha uygun bir fiyata sahip olmalarına da yardımcı olmaktadır.
@@ -61,7 +61,7 @@ Bu sayfa, kullanıcıların notları satın alabilecekleri bir sayfadır. Bu say
 
 
 
-HEDEF KİTLE
+## [HEDEF KİTLE]
 
 "Garaj" uygulamasının hedef kitlesi öğrencilerdir. Özellikle üniversite öğrencileri, yüksek lisans öğrencileri ve lisansüstü öğrencileri için uygun bir platformdur. Aynı zamanda, lise öğrencileri de uygulamayı kullanabilirler.
 
@@ -72,5 +72,9 @@ Uygulama ayrıca, öğrencilerin belirli konularda daha fazla bilgi edinmelerine
 Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmalarına yardımcı olacak bir platformdur. Bu nedenle, öğrencilerin yanı sıra öğretmenlerin de bu uygulamadan faydalanabileceğini söyleyebiliriz.
 
 
+
+
+## [SPRINT 1]
+![alt text](
 ![alt text](https://github.com/HsarkutH/F-19/blob/main/%C3%96%C4%9Frenciler%20%C4%B0%C3%A7in%20tasarland%C4%B1.%20(1).png)
 
