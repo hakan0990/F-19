@@ -4,7 +4,7 @@
 
 Ürün İle İlgili Bilgiler
 
-##[Takım Elemanları]
+## [Takım Elemanları]
 
 
 •Nurgül Demir- Scrum Master
@@ -16,7 +16,7 @@
 --Garaj--           
 
 
-##[ÜRÜN AÇIKLAMASI]
+## [ÜRÜN AÇIKLAMASI]
 
 
 Garaj, öğrencilerin kitaplarını, bölümlerinde kullandıkları çeşitli araç gereçleri ve notlarını satarak para kazanmasına ve diğer öğrencilerin de bu eşyaları ve notları satın alarak başarılı olmasına yardımcı olan bir platformdur. Bu uygulama, öğrencilerin kendi notlarını yüklemelerine ve diğer öğrencilerin notlarını satın alarak derslerinde daha başarılı olmalarına yardımcı olacağo bir kaynak sağlamaktadır. Uygulama bunu yaparken aynı zamanda da öğrencilerin araç gereçlerinin satın alınmasını da sağlayarak bölümlerinde gerekli olan eşyaları daha uygun bir fiyata sahip olmalarına da yardımcı olmaktadır.
