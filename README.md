@@ -55,7 +55,7 @@ Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmal
 
 ## [SPRINT 1]
 
-Sprint içinde tamamlanması tahmin edilen puan:100
+Sprint içinde tamamlanması tahmin edilen puan:80
 
 Puan tamamlama mantığı:Toplamda proje boyunca tamamlanması gereken puan 300 puanlık backlog bulunmaktadır.Üç sprinte bölündüğünde ilk sprint'in en azından 80 işe başlamadı gerektiğine karar verildi.
 
