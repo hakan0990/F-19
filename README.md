@@ -55,6 +55,11 @@ Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmal
 
 ## [SPRINT 1]
 
+Sprint içinde tamamlanması tahmin edilen puan:100
+
+Puan tamamlama mantığı:Toplamda proje boyunca tamamlanması gereken puan 300 puanlık backlog bulunmaktadır.Üç sprinte bölündüğünde ilk sprint'in en azından 80 işe başlamadı gerektiğine karar verildi.
+
+SPRİNT BOARD UPDATE:
 
 1. Kullanıcı Girişi ve Kayıt Olma Sayfası:
 Uygulamanın ilk sayfası, kullanıcıların giriş yapabileceği veya kayıt olabileceği bir sayfa olmalıdır. Bu sayfa, Firebase Authentication ile oluşturulabilir.
@@ -71,8 +76,6 @@ Bu sayfa, kullanıcıların eşyalarının görüntüleyebilecekleri bir sayfad�
 5. Ödeme Sayfası:
 Bu sayfa, kullanıcıların notları satın alabilecekleri bir sayfadır. Bu sayfada, kullanıcılar ödeme bilgilerini girerler ve notu veyahut eşyaları satın alırlar. Bu sayfa, Firebase Cloud Firestore ile oluşturulabilir.
 
-
-SPRİNT BOARD UPDATE:
 
 
 Öncelikle uygulamamızla ilgili bir afiş tasarımı yaptık
