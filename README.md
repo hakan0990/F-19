@@ -102,7 +102,8 @@ SPRİNT REVİEW:
 
 Görev paylaşımları yapıldı splash ekranı yavaştan kodlanmaya başlandı ana sayfa uzerınde yapılacak olan işlemler için temel kodlar kullanılacak olan widgetlar  düsünüldü ve ayarlandı  Appimizin temel color ve themaları dusunuldu ve ayarlandı kodlanmaya yavaştan başlanıldı.
 
-## [Sprint applog] Sprint applog oluşturduk ve to do list yaptık:  https://trello.com/b/tu3lucFU/f-19-team-garaj-applog
+## [Sprint applog] 
+Sprint applog oluşturduk ve to do list yaptık:  https://trello.com/b/tu3lucFU/f-19-team-garaj-applog
 
 
 SPRİNT RETROSPECTİVE:
