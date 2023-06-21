@@ -93,6 +93,11 @@ Uygulamayı yapmadan önce toplantılar yaparak ve aramızda konuşarak fikir al
 uygulama tasarımımız için UX research yaptık ve hedef kitemizi daha iyi oluşturduk.
 ![alt text](https://github.com/HsarkutH/F-19/blob/main/persona%20design.png)
 
+
+
+Uygulamamız için miro üzerinden Wireframe oluşturduk.
+https://miro.com/app/board/uXjVM8z1AEE=/
+
 SPRİNT REVİEW:
 
 Görev paylaşımları yapıldı splash ekranı yavaştan kodlanmaya başlandı ana sayfa uzerınde yapılacak olan işlemler için temel kodlar kullanılacak olan widgetlar  düsünüldü ve ayarlandı  Appimizin temel color ve themaları dusunuldu ve ayarlandı kodlanmaya yavaştan başlanıldı.
