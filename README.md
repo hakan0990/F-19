@@ -11,7 +11,7 @@
 •Ahmet Melih Deniz-Developer
 •Hakan Demirel-Developer
 •Hüseyin Sarkut-Product Owner
-•Ece Yaren Tanış-Developer
+•Ece Yaren Tanış-Designer
 Ürün İsmi
 --Garaj--           
 
