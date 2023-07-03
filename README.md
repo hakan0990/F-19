@@ -180,6 +180,8 @@ SPRİNT BOARD UPDATE:
 - Spreadlerin uygulamamıza entegrasyonunu sağladık.
 - Uygulamanın ikinci sprintindeki tüm özelliklerin testini gerçekleştirdik.
 
+![alt text](https://github.com/HsarkutH/F-19/blob/main/WhatsApp%20Image%202023-07-04%20at%2001.45.27.jpeg)
+
 
 Bu sprintteki çalışmalarımız, tarot uygulamasının ikinci sprintindeki ilerlemeyi göstermektedir. İkinci sprintte tamamladığımız görevleri ve elde ettiğimiz sonuçları listelemiş olduk.
 
