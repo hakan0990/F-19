@@ -200,8 +200,6 @@ SPRİNT REVİEW:
 
 Sprint Hedefleri:
 1. Tarot spreadlerini oluşturmak ve tasarlamak.
-2. Günlük kart özelliğini eklemek.
-3. Kullanıcı geri bildirimlerini toplamak ve düzeltmeler yapmak.
 
 Yapılanlar:
 1. Tarot spreadlerini oluşturmak ve tasarlamak için çalışmalara başladık. Spreadlerin uygulamaya entegrasyonunu tamamladık.
@@ -214,7 +212,6 @@ Başarılar:
 
 Sonraki Adımlar:
 - Tüm sprint hedeflerini tamamlamak ve uygulamayı kullanıma hazır hale getirmek.
-- Kullanıcı geri bildirimlerini değerlendirmek ve gerekli düzeltmeleri yapmak.
 
 Sprint review'ümüzde, ikinci sprintteki hedeflerimizi ve yaptıklarımızı özetledik. Ayrıca başarılarımızı, öğrenimlerimizi ve sonraki adımlarımızı da paylaştık. Bu sprintte elde ettiğimiz sonuçlar ve öğrendiklerimiz, gelecek sprintlerdeki planlama ve geliştirme sürecimizi etkileyecektir.
 
