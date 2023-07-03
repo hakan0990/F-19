@@ -202,6 +202,10 @@ https://acrobat.adobe.com/id/urn:aaid:sc:AP:73bb68f3-8681-4376-97e3-8d0e9694f552
 
 Sprint board update: Sprint board screenshotları:
 
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:973d0dfd-2368-4c83-bf7a-62f81cd3b84a
+
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:17e53cec-0aeb-4e03-8d6a-309f1efd0699
+
 
 SPRİNT REVİEW:
 
