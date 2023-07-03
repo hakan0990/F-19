@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Book Shop',
+      title: 'İris',
       theme: ThemeData.dark().copyWith(
         buttonTheme: ButtonThemeData(buttonColor: Colors.pink)
       ),
