@@ -13,44 +13,79 @@
 •Hüseyin Sarkut-Product Owner
 •Ece Yaren Tanış-Designer
 Ürün İsmi
---Garaj--           
+--İRİS--           
 
 
 ## [ÜRÜN AÇIKLAMASI]
 
+"İris Tarot: Kendini Keşfet ve Geleceği Anlamlandır" adlı bu benzersiz uygulama, kullanıcıların derinlemesine bir iç yolculuğa çıkmasına ve kendilerini daha iyi anlamalarına yardımcı olan kapsamlı bir tarot deneyimi sunuyor.
 
-Garaj, öğrencilerin kitaplarını, bölümlerinde kullandıkları çeşitli araç gereçleri ve notlarını satarak para kazanmasına ve diğer öğrencilerin de bu eşyaları ve notları satın alarak başarılı olmasına yardımcı olan bir platformdur. Bu uygulama, öğrencilerin kendi notlarını yüklemelerine ve diğer öğrencilerin notlarını satın alarak derslerinde daha başarılı olmalarına yardımcı olacağo bir kaynak sağlamaktadır. Uygulama bunu yaparken aynı zamanda da öğrencilerin araç gereçlerinin satın alınmasını da sağlayarak bölümlerinde gerekli olan eşyaları daha uygun bir fiyata sahip olmalarına da yardımcı olmaktadır.
+İris Tarot, geleneksel tarot kartlarının güçlü sembolizmi ve mistik enerjisinden ilham alarak tasarlanmıştır. Uygulama, kullanıcıların doğru sorular sormasını ve içsel rehberlik arayışlarında ilerlemesini teşvik eder. Kullanıcılar, tarot kartlarını karıştırabilir ve kendilerine özgü bir yayım yapabilir veya uygulamanın otomatik yayım seçeneğini kullanarak kartlarını çekebilirler.
 
-Garaj, öğrencilerin araç-gereçlerini ve notlarını yükleyerek satışa sunabilecekleri kolay ve kullanımı basit bir platformdur. Öğrenciler, eşyalarını kategorize edebilir, açıklama ekleyebilir ve sattığı eşyaları diğer öğrencilerin dikkatini çekecek şekilde özelleştirebilirler. Diğer öğrenciler, bu eşyaları edinip notları satın alarak derslerinde daha başarılı olabilirler.
+İris Tarot, her bir kartın derin anlamını ve sembolik önemini açıklayan kapsamlı bir kart anlamı bölümü içerir. Bu şekilde, kullanıcılar, kartlarını çektikten sonra anlamlarını okuyabilir ve kendi yorumlarını yapabilirler. Ayrıca, uygulama kullanıcılarına kart yayımlarını kaydetme, paylaşma ve not alma gibi özellikler sunar, böylece kullanıcılar ilerlemelerini takip edebilir ve deneyimlerini başkalarıyla paylaşabilirler.
 
-Garaj uygulamasının bir diğer harika özelliği de, öğrencilere notlarını yükledikleri için para kazanma fırsatı sağlamasıdır. Öğrenciler, notlarını satışa sunarak para kazanabilirler. Bu da öğrencilerin maddi açıdan rahatlamalarını sağlayabilir.
+İris Tarot, kullanıcı dostu bir arayüz ve sezgisel bir kullanım sunarak kullanıcıların kolaylıkla uygulamayı keşfetmesini sağlar. Estetik açıdan etkileyici ve ayrıntılı tarot kartları, kullanıcıların görsel bir şölenin içine girmelerini sağlar ve bir tarot seansının gerçek bir deneyimini sunar.
 
-Tabii, öncelikle uygulamanın birincil fonksiyonlarını anlatacağım:
+Ancak İris Tarot, sadece geleceği tahmin etmek için bir araç değildir. Uygulama, kullanıcılara içgörü, rehberlik ve farkındalık sağlayarak, kendi iç dünyalarını keşfetmelerine yardımcı olur. Kullanıcılar, sorunlarına, ilişkilerine, kariyerlerine ve diğer yaşam alanlarına daha derin bir bakış açısı kazanabilir ve bilinçli kararlar alabilirler.
 
-"Garaj, öğrencilerin öğrencilerin kitaplarını ve ders gereçlerini satıp alabildiği bir platformdur. Bu uygulama, öğrencilerin derslerinde kullanmaları gereken eşyaları daha uyguna alabilmelerine yardımcı olmak amacıyla tasarlanmıştır. Öğrenciler, kullanmadıkları ders gereçlerini yükleyerek satışa sunabilirler ve diğer öğrenciler de bu ders araç gereçlerini satın alarak derslerinde daha başarılı olabilirler. Aynı zamanda da ders notu satışı yaparak derslerinde daha başarılı olabilirler.
+İris Tarot, kullanıcıların kişisel büyüme ve spiritual keşiflerinde bir yol arkadaşı olmayı hedefler. Kullanıcılar, kartların sembolizmiyle bağlantı kurarak düşüncelerini, duygularını ve içsel yolculuklarını keşfedebilirler.
+
+İris Tarot, kullanıcılara manevi bir deneyim sunmak için tasarlanmıştır. Ancak unutulmamalıdır ki, uygulama tarafından sunulan herhangi bir sonuç veya yorumlama kesinlik içermemektedir. İris Tarot, kullanıcıların içsel keşiflerine rehberlik etmek amacıyla tasarlanmıştır ve kullanıcıların kendi içsel bilgeliklerini keşfetmelerine yardımcı olur.
+
+İris Tarot'u keşfedin ve kendinizi derin bir yolculuğa çıkarın.
 
 
-Uygulamanın ikincil fonksiyonları ise şunlardır:
-Birincisi, "Garaj" öğrencilerin kullanmadıkları eşyalarını yükleyerek para kazanmalarına olanak tanır. Öğrenciler, eşyalarını ve notlarını satışa sunarak para kazanabilirler. Bu özellik sayesinde, öğrencilerin maddi açıdan rahatlamaları sağlanabilir.
+İris Tarot uygulamasının birincil kazanımları şunlardır:
 
-İkinci olarak, "Garaj" öğrencilerin notlarını kategorize edebilmelerine olanak tanır. Öğrenciler, ders notlarını konularına göre sınıflandırarak diğer öğrencilerin notlarına daha kolay erişmelerine yardımcı olabilirler. Bu sayede, öğrenciler daha fazla not görüntüleyebilir ve derslerinde daha başarılı olabilirler.
 
-Üçüncü olarak, "Garaj" öğrencilerin sattıkları ve eşyaları özelleştirmelerine olanak tanır. Öğrenciler, eşyalarını açıklamalar ve diğer özelliklerle özelleştirerek diğer öğrencilerin dikkatini çekebilirler. Bu sayede, sattıkları eşyalar daha çekici hale gelir ve daha fazla satış yapılabilir.
+1. İçsel Farkındalık: İris Tarot, kullanıcıların içsel dünyalarını keşfetmelerine yardımcı olur. Tarot kartları, semboller ve anlamlar aracılığıyla kullanıcıların duygularını, düşüncelerini ve davranışlarını daha iyi anlamalarını sağlar. Bu sayede kullanıcılar, kendileriyle ilgili derin bir farkındalık geliştirir ve içsel büyüme sağlar.
 
-Son olarak, "Garaj" öğrencilerin notlarını ve eşyalarını güvenli bir şekilde satmalarına olanak tanır. Uygulama, ödeme işlemlerini güvence altına alır ve satıcıların notlarını izinsiz kullanımlardan korur.
+2. Rehberlik ve Yönlendirme: İris Tarot, kullanıcılara rehberlik ve yönlendirme sağlar. Tarot kartlarının yorumlarını okuyarak kullanıcılar, sorunlarının farklı bir perspektiften ele alınmasını sağlayabilir ve daha bilinçli kararlar alabilir. Kartların sembolik anlamlarıyla bağlantı kurarak kullanıcılar, içgörü kazanır ve yaşamlarını daha iyi yönlendirir.
 
-Tüm bu fonksiyonlar, "Garaj" uygulamasının öğrencilere sağladığı birçok faydayı göstermektedir. Bu uygulama, öğrencilerin derslerinde daha başarılı olmalarına yardımcı olurken, aynı zamanda para kazanmalarını da sağlar.
+3. Kendini İfade Etme: İris Tarot, kullanıcılara kendilerini ifade etme ve duygusal bir çıkış yolu bulma imkanı sunar. Kullanıcılar, tarot kartlarını kullanarak duygularını ve düşüncelerini dışa vurabilir, içsel deneyimlerini görselleştirebilir ve yaratıcı bir şekilde ifade edebilir.
 
+4. İlham ve Yaratıcılık: İris Tarot, yaratıcı bireyler için bir ilham kaynağı olabilir. Tarot kartları, sanatsal ve yaratıcı süreçlerde kullanılabilir. Kullanıcılar, kartların sembolizmi ve görsel estetiğiyle etkileyici eserler yaratabilir ve yaratıcılıklarını besleyebilir.
+
+5. Spiritüel Bağlantı: İris Tarot, kullanıcıların spiritüel bağlantılarını derinleştirmelerine yardımcı olur. Kullanıcılar, tarot kartları aracılığıyla meditasyon yapabilir, içsel sessizliğe erişebilir ve ruhsal deneyimler yaşayabilir. Tarot kartları, kullanıcılara evrensel enerjilerle bağlantı kurma ve spiritüel bir deneyim yaşama fırsatı sunar.
+
+6. Kendine Güven: İris Tarot, kullanıcıların kendine güvenlerini artırır. Tarot kartlarının sembollerini anlama ve yorumlama becerisi geliştiren kullanıcılar, içsel bilgeliklerini keşfederler. Bu da kullanıcıların kendilerine olan güvenlerini artırır ve kendi hayatları üzerinde daha fazla kontrol sahibi olmalarını sağlar.
+
+İris Tarot uygulaması, kullanıcıların içsel farkındalık, rehberlik, kendini ifade etme, yaratıcılık, spiritüel bağlantı ve kendine güven gibi birçok kazanım elde etmelerini sağlar. Kullanıcılar, uygulamayı düzenli olarak kullanarak bu kazanımları güçlendirebilir ve kendilerini daha iyi anlama yolculuklarında ilerleyebilirler.
+
+
+İris Tarot uygulamasının ikincil kazanımları şunlardır:
+
+
+1. Stres Azaltma: İris Tarot, kullanıcıların stres seviyelerini azaltmalarına yardımcı olur. Tarot kartlarına odaklanma ve yorumlama süreci, kullanıcıları mevcut stres faktörlerinden uzaklaştırır ve zihinsel olarak rahatlamalarını sağlar. Ayrıca, kartların sembolizmi ve anlamlarıyla çalışmak, kullanıcıların zihinlerini sakinleştirir ve iç huzurun artmasına katkıda bulunur.
+
+2. Problem Çözme Becerileri: İris Tarot, kullanıcıların problem çözme becerilerini geliştirmelerine yardımcı olur. Tarot kartları, farklı açılardan bakma ve alternatif çözüm yollarını keşfetme becerisini destekler. Kullanıcılar, kartların sembolizmi ve yorumlarıyla düşünce süreçlerini genişletir ve daha yaratıcı problem çözme stratejileri geliştirirler.
+
+3. İletişim Becerileri: İris Tarot, kullanıcıların iletişim becerilerini güçlendirmelerine katkıda bulunur. Kullanıcılar, kartların sembollerini ve anlamlarını başkalarına aktarırken açık ve etkili iletişim becerilerini kullanma fırsatı bulurlar. Ayrıca, tarot kartlarıyla yapılan seanslar veya paylaşımlar aracılığıyla kullanıcılar başkalarıyla daha derin bir bağlantı kurma ve empati yeteneklerini geliştirme şansı yakalarlar.
+
+4. Günlük Refleksiyon: İris Tarot, kullanıcıların günlük refleksiyon yapmalarına yardımcı olur. Kullanıcılar, her gün bir tarot kartı seçerek günlük bir mesaj veya rehberlik alabilirler. Bu, kullanıcıların günlerini daha bilinçli bir şekilde yaşamalarını sağlar ve günlük deneyimleri üzerinde düşünmelerine olanak tanır.
+
+5. Özgüven ve Kendine İnanç: İris Tarot, kullanıcıların özgüvenlerini artırır ve kendilerine olan inançlarını güçlendirir. Kullanıcılar, tarot kartlarının mesajlarını anlama ve yorumlama süreciyle kendilerine olan güvenlerini ve içsel bilgeliklerini keşfederler. Bu da kullanıcıların kendilerine olan inançlarını artırır ve kendi kararlarını daha cesur bir şekilde almalarını sağlar.
+
+6. Ruhsal Bağlantı: İris Tarot, kullanıcıların ruhsal bağlantılarını güçlendirmelerine yardımcı olur. Tarot kartları, kullanıcıları evrensel enerjilerle bağlantı kurmaya ve spiritüel deneyimler yaşamaya teşvik eder. Kullanıcılar, kartların sembolizmi ve rehberliği aracılığıyla ruhsal bir derinleşme ve bağlantı yaşarlar.
+
+İris Tarot uygulaması, kullanıcıların stres azaltma, problem çözme becerileri, iletişim becerileri, günlük refleksiyon, özgüven ve kendine inanç, ve ruhsal bağlantı gibi ikincil kazanımlar elde etmelerini sağlar. Bu kazanımlar kullanıcıların genel yaşam kalitesini artırır ve kendilerini daha dengeli, bilinçli ve tatmin olmuş hissetmelerini sağlar.
 ## [HEDEF KİTLE]
 
-"Garaj" uygulamasının hedef kitlesi öğrencilerdir. Özellikle üniversite öğrencileri, yüksek lisans öğrencileri ve lisansüstü öğrencileri için uygun bir platformdur. Aynı zamanda, lise öğrencileri de uygulamayı kullanabilirler.
+İris Tarot uygulaması, geniş bir hedef kitleye hitap etmektedir. Aşağıda, uygulamanın potansiyel hedef kitlelerini ve onlar için sağladığı faydaları açıklamak istiyorum:
 
-Bu uygulama, özellikle derslerinde zorlanan öğrenciler için faydalıdır. Notlarını paylaşarak diğer öğrencilerin notlarına erişim sağlayabilirler. Ayrıca, öğrencilerin notlarını ve eşyalarını satışa sunarak para kazanmalarına da olanak tanır.
+1. Spiritüel Arayış İçinde Olanlar: Spiritüel gelişimlerini ve içsel keşiflerini derinleştirmek isteyenler için İris Tarot önemli bir araç olabilir. Bu insanlar, tarot kartlarının sembolizmi ve rehberliği aracılığıyla kendilerini daha iyi anlama ve spiritüel yolculuklarında ilerleme fırsatı bulabilirler.
 
-Uygulama ayrıca, öğrencilerin belirli konularda daha fazla bilgi edinmelerine yardımcı olur. Özellikle, öğrencilerin özellikle zorlandığı derslerdeki notlarına erişim sağlamalarına olanak tanır.
+2. Kendini Geliştirmek İsteyenler: İris Tarot, kişisel büyüme ve gelişim konusunda ilgili olan herkese hitap eder. Kullanıcılar, tarot kartlarının yardımıyla içsel farkındalık kazanabilir, sorunlarına yeni perspektiflerden bakabilir ve daha bilinçli kararlar alabilirler.
 
-Sonuç olarak, "Garaj" uygulaması, öğrencilerin derslerinde başarılı olmalarına yardımcı olacak bir platformdur. Bu nedenle, öğrencilerin yanı sıra öğretmenlerin de bu uygulamadan faydalanabileceğini söyleyebiliriz.
+3. Rehberlik Arayanlar: İris Tarot, yaşamlarıyla ilgili rehberlik arayanlara yardımcı olabilir. İlişkiler, kariyer, finans, sağlık veya diğer konularda yol gösterici bir araç olarak kullanılabilir. Kullanıcılar, tarot kartlarının yorumlarını okuyarak içgörü kazanabilir ve kendi yaşamlarını daha iyi yönlendirebilirler.
 
+4. Yaratıcı İnsanlar: Sanatçılar, yazarlar, şairler ve diğer yaratıcı bireyler için İris Tarot, ilham kaynağı ve yaratıcı süreçlerini destekleyici bir araç olabilir. Tarot kartları, yeni fikirlerin ortaya çıkmasına ve yaratıcılığın akmasına yardımcı olabilir.
+
+5. Ruhsal Deneyim Arayanlar: İris Tarot, ruhsal deneyimler yaşamak isteyenler için uygun bir seçenektir. Kartların sembolizmi, kullanıcıların derin meditasyonlar ve ruhsal bağlantılar aracılığıyla içsel keşifler yapmalarını sağlayabilir.
+
+6. Öz İç Gözlem Yapmak İsteyenler: İris Tarot, kullanıcıların kendi düşüncelerini, duygularını ve davranışlarını daha iyi anlamalarına yardımcı olur. Kullanıcılar, tarot kartlarının yorumlarını okuyarak ve kendi yayımlarını inceleyerek içsel gözlem yapabilir ve kendilerini daha derinden keşfedebilirler.
+
+İris Tarot uygulaması, yukarıda belirtilen hedef kitlelere, içsel keşifler yapma, rehberlik arama, bilinçli kararlar alma ve spiritüel büyüme konularında destek ve ilham sağlama amacıyla geliştirilmiştir. Her bir kullanıcı, uygulamayı kendi benzersiz ihtiyaçlarına ve hedeflerine uygun bir şekilde kullanabilir ve kendisi için anlam ve değer yaratabilir.
 
 
 ## [SPRINT 1]
@@ -61,20 +96,19 @@ Puan tamamlama mantığı:Toplamda proje boyunca tamamlanması gereken puan 300 
 
 SPRİNT BOARD UPDATE:
 
-1. Kullanıcı Girişi ve Kayıt Olma Sayfası:
-Uygulamanın ilk sayfası, kullanıcıların giriş yapabileceği veya kayıt olabileceği bir sayfa olmalıdır. Bu sayfa, Firebase Authentication ile oluşturulabilir.
+1. Yeni Kartlar Eklendi: Sprint sürecinde, İris Tarot uygulamasına yeni tarot kartları eklendi. Bu kartlar, kullanıcılara daha fazla seçenek ve çeşitlilik sunarak deneyimlerini zenginleştirdi. Eklenen kartlar, farklı semboller ve anlamlar taşıyor ve kullanıcılara daha geniş bir perspektif sağlıyor.
 
-2. Ana Sayfa:
-Ana sayfa, kullanıcıların notlarına erişebilecekleri bir sayfadır. Bu sayfada, kullanıcılar notlarını arayabilir, filtreleyebilir ve satın alabilirler. Bu sayfa, bir ListView widget'ı kullanılarak oluşturulabilir.
 
-3. Eşya Satışı Sayfası:
-Bu sayfa, kullanıcılara satmak istediği eşyalarını ve notlarını yükleyebilecekleri bir sayfadır. Bu sayfada, kullanıcılar notlarına açıklama ve fiyat ekleyebilirler. Bu sayfa, bir Form widget'ı kullanılarak oluşturulabilir.
 
-4. Detay Sayfası:
-Bu sayfa, kullanıcıların eşyalarının görüntüleyebilecekleri bir sayfadır. Bu sayfada, kullanıcılar eşyaların ve notların açıklamasını, fiyatını ve satıcı bilgilerini görüntüleyebilirler. Bu sayfa, bir Card widget'ı kullanılarak oluşturulabilir.
+3. Görsel Tasarım Güncellemeleri: Uygulamanın görsel tasarımı üzerinde çalıştık ve güncellemeler yaptık. Kullanıcı arayüzünü daha kullanıcı dostu ve estetik hale getirdik. 
 
-5. Ödeme Sayfası:
-Bu sayfa, kullanıcıların notları satın alabilecekleri bir sayfadır. Bu sayfada, kullanıcılar ödeme bilgilerini girerler ve notu veyahut eşyaları satın alırlar. Bu sayfa, Firebase Cloud Firestore ile oluşturulabilir.
+4. Performans Güncellemeleri: Uygulamanın performansını artırmak için çeşitli iyileştirmeler yapıldı. Hızlı açılma süresi, sorunsuz kart geçişleri ve daha stabil bir kullanıcı deneyimi için teknik düzenlemeler gerçekleştirildi. Bu sayede kullanıcılar, daha akıcı bir uygulama kullanımı deneyimledi.
+
+
+
+6. Hata Düzeltmeleri ve Güvenlik Güncellemeleri: Sprint sürecinde, uygulamanın güvenliğini artırmak için gerekli güncellemeleri gerçekleştirdik. Kullanıcı bilgilerinin gizliliği ve uygulamanın güvenliği önceliğimiz oldu.
+
+Bu sprint sürecinde, İris Tarot uygulaması için çeşitli güncellemeler ve iyileştirmeler gerçekleştirdik.  uygulamayı daha kullanıcı dostu, estetik, performanslı ve güvenli hale getirdik. Yeni kartlar,  görsel tasarım güncellemeleri uygulamayı zenginleştirdi.
 
 
 
@@ -84,15 +118,19 @@ Bu sayfa, kullanıcıların notları satın alabilecekleri bir sayfadır. Bu say
 
 DAİLY SCRUM:
 
-Uygulamayı yapmadan önce toplantılar yaparak ve aramızda konuşarak fikir alışverişinde bulunduk
-![alt text](https://github.com/HsarkutH/F-19/blob/main/WhatsApp%20Image%202023-06-18%20at%2023.40.53.jpeg)
+Daily Scrum: İris Tarot Uygulaması
 
+1. Önceki Günün İlerlemesi: Öncelikle, İris Tarot uygulamasının önceki günkü ilerlemesini değerlendirdik. Hangi görevler tamamlandı, hangileri üzerinde çalışıldı ve hangi zorluklarla karşılaşıldı gibi konuları paylaştık. Bu, ekip üyelerinin birbirlerinin çalışmalarından haberdar olmasını sağladı ve proje ilerlemesini değerlendirmemize yardımcı oldu.
 
+2. Güncel Görevler ve Öncelikler: Ekip üyeleri, güncel görevlerini ve önceliklerini paylaştı. Proje yöneticisi, ekiple birlikte görevlerin öncelik sırasını belirledi ve ekip üyelerinin üzerinde çalışacakları görevleri seçmelerini sağladı. Bu, ekip üyelerinin görevlerini yönetmelerine ve takımın hedeflerine odaklanmalarına yardımcı oldu.
 
+3. Engeller ve Destek İhtiyaçları: Ekip üyeleri, karşılaştıkları engelleri ve destek ihtiyaçlarını paylaştı. Bunlar, teknik sorunlar, kaynak eksikliği veya işbirliği gerektiren konular olabilir. Engelleri belirlemek ve çözmek için birlikte çalıştık ve destek ihtiyaçlarını karşılamak için gereken adımları belirledik.
 
-uygulama tasarımımız için UX research yaptık ve hedef kitemizi daha iyi oluşturduk.
-![alt text](https://github.com/HsarkutH/F-19/blob/main/persona%20design.png)
+4. İlerleme Hedefleri: Ekip üyeleri, günlük hedeflerini belirledi. Bu hedefler, öncelikli görevler üzerinde çalışmayı içerebilir veya yeni görevlerin başlatılmasını gerektirebilir. Her ekip üyesi, gün sonunda neyi tamamlamayı hedeflediğini paylaştı ve takımın ilerlemesini desteklemek için birlikte çalıştık.
 
+5. İletişim ve İşbirliği: Ekip üyeleri, iletişim ve işbirliğini güçlendirmek için gereken adımları tartıştı. Proje yöneticisi, ekip üyeleri arasında düzenli olarak bilgi paylaşımı ve iletişim kanallarının kullanılmasını teşvik etti. Ayrıca, ekip üyeleri arasında işbirliğini artırmak için fırsatlar ve stratejiler üzerinde de konuştuk.
+
+Bu günlük Scrum toplantısı, İris Tarot uygulamasının gelişimi için önemli bir adımdır. Ekip üyeleri, ilerlemeleri paylaşır, öncelikleri belirler, engelleri çözer ve işbirliğini teşvik eder. Bu, takımın birlikte çalışma ve proje hedeflerine odaklanma becerisini geliştirmesine yardımcı olur. İris Tarot uygulaması, sürekli olarak takım üyeleri arasında iletişim ve işbirliğini destekleyerek ve günlük hedeflerin belirlenmesiyle gelişmeye devam edecektir.
 
 
 Uygulamamız için miro üzerinden Wireframe oluşturduk.
@@ -100,7 +138,18 @@ https://miro.com/app/board/uXjVM8z1AEE=/
 
 SPRİNT REVİEW:
 
-Görev paylaşımları yapıldı splash ekranı yavaştan kodlanmaya başlandı ana sayfa uzerınde yapılacak olan işlemler için temel kodlar kullanılacak olan widgetlar  düsünüldü ve ayarlandı  Appimizin temel color ve themaları dusunuldu ve ayarlandı kodlanmaya yavaştan başlanıldı.
+Sprint Review: İris Tarot Uygulaması
+
+Sprint sürecinin sonunda, İris Tarot uygulaması için bir Sprint Review gerçekleştirdik. Bu toplantıda, takım olarak sprint boyunca gerçekleştirdiğimiz çalışmaları ve elde ettiğimiz sonuçları değerlendirdik.
+
+
+
+2. Görsel Tasarım Güncellemeleri: Sprint boyunca, uygulamanın görsel tasarımını güncelledik. Renk paletini ve fontları değiştirerek, kullanıcı arayüzünü daha estetik ve kullanıcı dostu hale getirdik. Bu güncellemeler, kullanıcıların uygulamayı daha keyifli bir şekilde kullanmalarını sağladı.
+
+3. Performans ve Hata Düzeltmeleri: Sprint sürecinde, uygulamanın performansını artırmak ve kullanıcı deneyimini iyileştirmek için çeşitli teknik düzenlemeler ve hata düzeltmeleri gerçekleştirdik. Hızlı açılma süresi, sorunsuz kart geçişleri ve daha stabil bir kullanıcı deneyimi için çalıştık. 
+
+
+Sprint Review toplantısında, takım olarak gerçekleştirdiğimiz çalışmaları değerlendirdik ve elde ettiğimiz sonuçlardan memnuniyet duyduk. İris Tarot uygulaması, sprint boyunca yapılan güncellemeler ve iyileştirmelerle daha kullanıcı dostu, estetik, performanslı ve güvenli hale getirildi. İris Tarot uygulaması, kullanıcıların daha derin bir farkındalık, rehberlik ve içsel büyüme yaşamalarını desteklemek amacıyla sürekli olarak geliştirilmeye devam edecektir.
 
 ## [Sprint applog] 
 Sprint applog oluşturduk ve to do list yaptık:  https://trello.com/b/tu3lucFU/f-19-team-garaj-applog
