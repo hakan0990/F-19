@@ -165,6 +165,10 @@ SPRİNT RETROSPECTİVE:
 
 ## [SPRİNT 2]
 
+SPRİNT NOTLARI
+
+Kullanıcılar için birçok kart sistemi ayarlanmıştır. Ana sayfaya geldiğinizde bu sistemleri görebilir ve her birine tıkladığınızda size özel tarot yazısını görebilirsiniz. İris Tarot uygulamasıyla fark yaratıyoruz.
+
 Sprint içinde tamamlanması tahmin edilen puan:100
 
 Puan tamamlama mantığı:Toplamda proje boyunca tamamlanması gereken puan 300 puanlık backlog bulunmaktadır.Üç sprinte bölündüğünde ikinci sprint'in en azından 100 ile devam etmesi gerektiğine karar verildi.
@@ -195,6 +199,9 @@ https://acrobat.adobe.com/id/urn:aaid:sc:AP:d5fbd37f-74b2-41da-a47a-e163de3000de
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:6f750a59-c49a-419f-92ac-94a2dcf023a1
 
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:73bb68f3-8681-4376-97e3-8d0e9694f552
+
+Sprint board update: Sprint board screenshotları:
+
 
 SPRİNT REVİEW:
 
