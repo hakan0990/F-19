@@ -183,6 +183,10 @@ SPRİNT BOARD UPDATE:
 
 Bu sprintteki çalışmalarımız, tarot uygulamasının ikinci sprintindeki ilerlemeyi göstermektedir. İkinci sprintte tamamladığımız görevleri ve elde ettiğimiz sonuçları listelemiş olduk.
 
+![alt text](https://github.com/HsarkutH/F-19/blob/main/WhatsApp%20Image%202023-07-03%20at%2023.56.15.jpeg)
+
+![alt text](https://github.com/HsarkutH/F-19/blob/main/WhatsApp%20Image%202023-07-03%20at%2023.56.15%20(1).jpeg)
+
 
 DAİLY SCRUM
 
