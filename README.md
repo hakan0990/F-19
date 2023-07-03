@@ -112,8 +112,7 @@ Bu sprint sürecinde, İris Tarot uygulaması için çeşitli güncellemeler ve 
 
 
 
-Öncelikle uygulamamızla ilgili bir afiş tasarımı yaptık
-![alt text](https://github.com/HsarkutH/F-19/blob/main/%C3%96%C4%9Frenciler%20%C4%B0%C3%A7in%20tasarland%C4%B1.%20(1).png)
+
 
 
 DAİLY SCRUM:
