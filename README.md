@@ -163,3 +163,24 @@ SPRİNT RETROSPECTİVE:
 
 •Zaman planlaması yapıldı
 
+
+## [SPRİNT 2]
+
+Sprint içinde tamamlanması tahmin edilen puan:100
+
+DAİLY SCRUM
+
+Daily scrum toplantılarının whatsapp üzerinden yapılmasına karar verilmiştir.
+
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:7608359a-b234-4c13-8052-a043c330c49a
+
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:ae06cc14-cf5b-42d4-9b62-932ba212440e
+
+Ürün Durumu Ekran Görüntüleri:
+
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:d5fbd37f-74b2-41da-a47a-e163de3000de
+
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:6f750a59-c49a-419f-92ac-94a2dcf023a1
+
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:73bb68f3-8681-4376-97e3-8d0e9694f552
+
