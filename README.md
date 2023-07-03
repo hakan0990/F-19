@@ -151,7 +151,7 @@ Sprint sürecinin sonunda, İris Tarot uygulaması için bir Sprint Review gerç
 Sprint Review toplantısında, takım olarak gerçekleştirdiğimiz çalışmaları değerlendirdik ve elde ettiğimiz sonuçlardan memnuniyet duyduk. İris Tarot uygulaması, sprint boyunca yapılan güncellemeler ve iyileştirmelerle daha kullanıcı dostu, estetik, performanslı ve güvenli hale getirildi. İris Tarot uygulaması, kullanıcıların daha derin bir farkındalık, rehberlik ve içsel büyüme yaşamalarını desteklemek amacıyla sürekli olarak geliştirilmeye devam edecektir.
 
 ## [Sprint applog] 
-Sprint applog oluşturduk ve to do list yaptık:  https://trello.com/b/tu3lucFU/f-19-team-garaj-applog
+Sprint applog oluşturduk ve to do list yaptık:  https://trello.com/b/tu3lucFU/f-19-team-iris-applog
 
 
 SPRİNT RETROSPECTİVE:
