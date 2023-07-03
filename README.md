@@ -168,6 +168,7 @@ SPRİNT RETROSPECTİVE:
 Sprint içinde tamamlanması tahmin edilen puan:100
 
 Puan tamamlama mantığı:Toplamda proje boyunca tamamlanması gereken puan 300 puanlık backlog bulunmaktadır.Üç sprinte bölündüğünde ikinci sprint'in en azından 100 ile devam etmesi gerektiğine karar verildi.
+
 SPRİNT BOARD UPDATE:
 
 İkinci sprintte yaptıklarımız:
