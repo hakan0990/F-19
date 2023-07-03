@@ -167,6 +167,18 @@ SPRİNT RETROSPECTİVE:
 
 Sprint içinde tamamlanması tahmin edilen puan:100
 
+Puan tamamlama mantığı:Toplamda proje boyunca tamamlanması gereken puan 300 puanlık backlog bulunmaktadır.Üç sprinte bölündüğünde ikinci sprint'in en azından 100 ile devam etmesi gerektiğine karar verildi.
+SPRİNT BOARD UPDATE:
+
+İkinci sprintte yaptıklarımız:
+- Tarot spreadlerini oluşturmak ve tasarlamak için çalışmalara başladık.
+- Spreadlerin uygulamamıza entegrasyonunu sağladık.
+- Uygulamanın ikinci sprintindeki tüm özelliklerin testini gerçekleştirdik.
+
+
+Bu sprintteki çalışmalarımız, tarot uygulamasının ikinci sprintindeki ilerlemeyi göstermektedir. İkinci sprintte tamamladığımız görevleri ve elde ettiğimiz sonuçları listelemiş olduk.
+
+
 DAİLY SCRUM
 
 Daily scrum toplantılarının whatsapp üzerinden yapılmasına karar verilmiştir.
@@ -183,3 +195,42 @@ https://acrobat.adobe.com/id/urn:aaid:sc:AP:6f750a59-c49a-419f-92ac-94a2dcf023a1
 
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:73bb68f3-8681-4376-97e3-8d0e9694f552
 
+SPRİNT REVİEW:
+
+Sprint Hedefleri:
+1. Tarot spreadlerini oluşturmak ve tasarlamak.
+2. Günlük kart özelliğini eklemek.
+3. Kullanıcı geri bildirimlerini toplamak ve düzeltmeler yapmak.
+
+Yapılanlar:
+1. Tarot spreadlerini oluşturmak ve tasarlamak için çalışmalara başladık. Spreadlerin uygulamaya entegrasyonunu tamamladık.
+2. Açılış ekranı ve kayıt ol ekranı hazırlandı.
+3. Main screendeki son işlemler tamamlandı.
+Başarılar:
+- Tarot spreadlerinin başarılı bir şekilde oluşturulması ve uygulamaya entegrasyonunun tamamlanması.
+-Login sayfası tamamlandı.
+
+
+Sonraki Adımlar:
+- Tüm sprint hedeflerini tamamlamak ve uygulamayı kullanıma hazır hale getirmek.
+- Kullanıcı geri bildirimlerini değerlendirmek ve gerekli düzeltmeleri yapmak.
+
+Sprint review'ümüzde, ikinci sprintteki hedeflerimizi ve yaptıklarımızı özetledik. Ayrıca başarılarımızı, öğrenimlerimizi ve sonraki adımlarımızı da paylaştık. Bu sprintte elde ettiğimiz sonuçlar ve öğrendiklerimiz, gelecek sprintlerdeki planlama ve geliştirme sürecimizi etkileyecektir.
+
+SPRİNT RETROSPECTİVE
+
+Ekip İletişimi:
+- İletişim kanallarımızı etkin bir şekilde kullandık ve düzenli toplantılar gerçekleştirdik.
+- Her ekip üyesi, ilerlemelerini ve engellerini paylaşmak için aktif bir şekilde katıldı.
+
+Geliştirilmesi Gereken Alanlar:
+1. Test sürecine daha fazla zaman ayırmamız gerektiğini fark ettik. Gelecek sprintlerde daha kapsamlı bir test planı oluşturmak önemli olacak.
+
+
+Öğrenimler:
+- Test sürecine daha fazla zaman ayırmak ve hataları tespit etmek için daha iyi bir test planı yapmak gerekliliği.
+
+Eylem Planı:
+1. Gelecek sprintlerde test sürecine daha fazla zaman ayırmak ve hataları tespit etmek için daha kapsamlı bir test planı oluşturmak.
+
+Sprint retrospective'imizde, ikinci sprintteki başarılarımızı, geliştirilmesi gereken alanları ve öğrendiklerimizi paylaştık. Ayrıca, gelecek sprintler için eylem planlarımızı da belirledik. Bu retrospective, gelecek sprintlerdeki planlama ve geliştirme sürecimizi iyileştirmemize yardımcı olacak.
