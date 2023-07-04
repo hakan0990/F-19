@@ -198,9 +198,6 @@ DAİLY SCRUM
 
 Daily scrum toplantılarının whatsapp üzerinden yapılmasına karar verilmiştir.
 
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:7608359a-b234-4c13-8052-a043c330c49a
-
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:ae06cc14-cf5b-42d4-9b62-932ba212440e
 
 
 SPRİNT REVİEW:
