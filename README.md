@@ -198,7 +198,7 @@ DAİLY SCRUM
 
 Daily scrum toplantılarının whatsapp üzerinden yapılmasına karar verilmiştir.
 
-
+https://github.com/WhatsApp%2520Image%25202023-07-03%2520at%252023.56.15%2520(5).jpeg
 
 SPRİNT REVİEW:
 
