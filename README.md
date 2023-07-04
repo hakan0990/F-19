@@ -180,10 +180,14 @@ SPRİNT BOARD UPDATE:
 - Spreadlerin uygulamamıza entegrasyonunu sağladık.
 - Uygulamanın ikinci sprintindeki tüm özelliklerin testini gerçekleştirdik.
 
+Sprint board screenshotları:
+
 ![alt text](https://github.com/HsarkutH/F-19/blob/main/WhatsApp%20Image%202023-07-04%20at%2001.45.27.jpeg)
 
 
 Bu sprintteki çalışmalarımız, tarot uygulamasının ikinci sprintindeki ilerlemeyi göstermektedir. İkinci sprintte tamamladığımız görevleri ve elde ettiğimiz sonuçları listelemiş olduk.
+ 
+Ürün Durumu Ekran Görüntüleri:
 
 ![alt text](https://github.com/HsarkutH/F-19/blob/main/WhatsApp%20Image%202023-07-03%20at%2023.56.15.jpeg)
 
@@ -197,20 +201,6 @@ Daily scrum toplantılarının whatsapp üzerinden yapılmasına karar verilmiş
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:7608359a-b234-4c13-8052-a043c330c49a
 
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:ae06cc14-cf5b-42d4-9b62-932ba212440e
-
-Ürün Durumu Ekran Görüntüleri:
-
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:d5fbd37f-74b2-41da-a47a-e163de3000de
-
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:6f750a59-c49a-419f-92ac-94a2dcf023a1
-
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:73bb68f3-8681-4376-97e3-8d0e9694f552
-
-Sprint board update: Sprint board screenshotları:
-
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:973d0dfd-2368-4c83-bf7a-62f81cd3b84a
-
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:17e53cec-0aeb-4e03-8d6a-309f1efd0699
 
 
 SPRİNT REVİEW:
