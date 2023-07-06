@@ -1,4 +1,4 @@
-import 'package:bookshop/screens/mainscreen.dart';
+import 'package:bookshop/screens/TarotScreen.dart';
 import 'package:flutter/material.dart';
 
 class registerScreen extends StatefulWidget {
@@ -61,7 +61,7 @@ class _registerScreenState extends State<registerScreen> {
       ),
       floatingActionButton: FloatingActionButton(onPressed: () {
 
-        Navigator.of(context).push(MaterialPageRoute(builder: (context)=>mainPage()));
+        Navigator.of(context).push(MaterialPageRoute(builder: (context)=>TarotScreen()));
       },
       backgroundColor: Color.fromARGB(0, 253, 2, 191),elevation: 10,
        child: Icon(Icons.arrow_right_alt_sharp,color: Colors.black,size: 40,),
