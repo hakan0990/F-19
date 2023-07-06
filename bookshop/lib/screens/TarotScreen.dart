@@ -95,17 +95,20 @@ class _TarotScreenState extends State<TarotScreen> {
             ),
             SizedBox(height: 40),
             ElevatedButton(
+             style: ElevatedButton.styleFrom(backgroundColor: Color.fromARGB(61, 5, 104,0)),
               child: Text(
                 'Kartı Karıştır',
-                style:TextStyle(fontSize: 20),
+                style:TextStyle(fontSize: 20,fontStyle: FontStyle.italic),
+                
               ),
               onPressed: _reset,
             ),
             SizedBox(height: 20),
             ElevatedButton(
+              style: ElevatedButton.styleFrom(backgroundColor: const Color.fromARGB(61, 5, 104,0)),
               child: Text(
                 'Fal Sonucunu Göster',
-                style: TextStyle(fontSize: 20),
+                style: TextStyle(fontSize: 20,fontStyle: FontStyle.italic),
               ),
               onPressed: _showResult,
             ),
